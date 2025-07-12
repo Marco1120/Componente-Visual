@@ -1,3 +1,10 @@
+### Integrantes del Equipo.
+Jimenez Juarez Marco Antonio
+
+Gonzalez Valentin Adrian
+
+### Equipo 7
+
 # BARRA DE PROGRESO (Componente Visual Personalizado)
 
 ## Análisis de código
@@ -377,9 +384,13 @@ y dandole un color al borde de la barra.
 Posicion del Texto de la Barra.
 La barra cuenta con la propiedad de poder colocar el texto de la barra en cualquiera de las siguientes posiciones de la barra a como guste el diseñador:
 1.-ARRIBA
+
 2.-ABAJO
+
 3.-CENTRO
+
 4.-DERECHA
+
 5.-IZQUIERDA
 
 <img width="1920" height="1080" alt="Captura de pantalla (41)" src="https://github.com/user-attachments/assets/10a2a2dd-2d5c-4043-98b3-f6f053ed5807" />
